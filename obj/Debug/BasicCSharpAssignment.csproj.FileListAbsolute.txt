@@ -1,0 +1,8 @@
+D:\Training\day10\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.exe.config
+D:\Training\day10\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.exe
+D:\Training\day10\BasicCSharpAssignment\BasicCSharpAssignment\bin\Debug\BasicCSharpAssignment.pdb
+D:\Training\day10\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.AssemblyReference.cache
+D:\Training\day10\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.SuggestedBindingRedirects.cache
+D:\Training\day10\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.csproj.CoreCompileInputs.cache
+D:\Training\day10\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.exe
+D:\Training\day10\BasicCSharpAssignment\BasicCSharpAssignment\obj\Debug\BasicCSharpAssignment.pdb
